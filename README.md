@@ -1,4 +1,4 @@
-# Spydroid-ipcamera
+# Spydroid IPcamera
 
 * Spydroid is a little app. that *streams the camera and microphone of your phone to your browser or to VLC !*
 
